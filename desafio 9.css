@@ -1,0 +1,36 @@
+.sizecorrection {
+    height: 250px;
+    width: 400px;
+}
+
+.bodysize {
+    width: 400px;
+}
+
+.navitems {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex: 1;
+    
+}
+
+.card {
+    border: 0px;
+}
+
+
+.movies {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.navegation {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
